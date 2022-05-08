@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=kevan-y0&theme=dark)
 
-Hello, I am Kevan✨, postgraduate of CUFE,devoted to solving problems in Finance and Accounting by Python.
+Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finance and Accounting by Python.
 
 -someone who dosen't want to be a progrommer, but interested in programming.
 
