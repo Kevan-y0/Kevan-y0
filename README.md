@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	Hi🤗, there is Kevan.
+	Hey🤗, it's Kevan.
 </h1>
 <h4 align="center">
 Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finance and Accounting by Python.
