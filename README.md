@@ -10,11 +10,9 @@ Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finan
 </p>
 
 #### About Me
-- 🤔 someone who dosen't want to be a progrommer, but interested in programming.
-
-- 🌱 mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.
-
-- Here is my [Sina Weibo][1]👋.
+- 🤔 May be a financial practitioner, ~~Quant~~, interested in programming because of science and engineering background.  
+- 🌱 Mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.  
+- Here is my [Sina Weibo][1]👋
 
 [1]:https://weibo.com/u/2503519501
 
