@@ -10,7 +10,7 @@ Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finan
 </p>
 
 #### About Me
-- 🤔 May be a financial practitioner, ~~Quant~~, interested in programming because of science and engineering background.  
+- 🤔 May be a financial practitioner, ~~**not a Quant**~~, interested in programming because of science and engineering background.  
 - 🌱 Mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.  
 - Here is my [Sina Weibo][1]👋
 
