@@ -12,12 +12,13 @@ Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finan
 #### About Me
 - 🤔 May be a financial practitioner, ~~**not a Quant**~~, interested in programming because of science and engineering background.  
 - 🌱 Mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.  
+<!--
 - Here is my [Sina Weibo][1]👋
 
 [1]:https://weibo.com/u/2503519501
 
 
-<!--
+
 **Kevan-y0/Kevan-y0** is a  _special_ ✨👋 repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
