@@ -11,7 +11,8 @@ Hello, I am Kevan✨, postgraduate of CUFE, devoted to solving problems in Finan
 
 #### About Me
 - 🤔 May be a financial practitioner, ~~**not a Quant**~~, interested in programming because of science and engineering background.  
-- 🌱 Mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.  
+- 🌱 Mainly use Python in ML, DL, & Data analysis, know little about C++, R, Stata & Matlab.
+- 💬 Quantitative Investment only an hobby, Asset Custody is my life.
 <!--
 - Here is my [Sina Weibo][1]👋
 
